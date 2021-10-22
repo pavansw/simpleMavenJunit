@@ -12,3 +12,5 @@ $mvn package
 
 ## success ful package will give you .jar extension file in target directory. to run the jar file ...
 $java -jar target/gs-maven-0.1.0.jar
+
+## All the best
